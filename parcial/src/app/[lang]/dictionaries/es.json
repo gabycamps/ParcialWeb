@@ -1,0 +1,11 @@
+{
+    "title": "Preparcial I18N",
+    "welcome": "Bienvenido",
+    "profile": "Perfil",
+    "home": "Inicio",
+    "about": "Acerca de",
+    "description": "Esta es una aplicación de prueba de internacionalización.",
+    "language": "Idioma",
+    "spanish": "Español",
+    "english": "Inglés"
+}
