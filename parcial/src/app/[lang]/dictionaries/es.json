@@ -1,12 +1,14 @@
 {
-    "title": "Mi App",
+    "title": "Listado de razas - PawsomeAdviceApp",
     "welcome": "Bienvenido",
     "profile": "Perfil",
     "home": "Inicio",
     "about": "Acerca de",
-    "description": "Esta es una aplicación de prueba de internacionalización.",
+    "description": "Descubre todas las razas de perro acompañadas de un consejo de vida aleatorio: una colección pensada para alegrar tu día.",
     "language": "Idioma",
     "spanish": "Español",
     "english": "Inglés",
-    "leerMas": "Leer más"
+    "leerMas": "Leer más",
+    "footer1": "© 2024 PawsomeAdviceApp. Todos los derechos reservados.",
+    "footer2": "Las imagenes son proporcionadas por The Dog API y los consejos por Advice Slip API."
 }

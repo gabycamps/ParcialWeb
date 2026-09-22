@@ -34,7 +34,7 @@ export default async function RootLayout({
     <html lang={lang}>
       
       <body>
-        <Header lang={lang} />
+        <Header lang={lang}/>
         {children}
         <Footer></Footer>
       </body>

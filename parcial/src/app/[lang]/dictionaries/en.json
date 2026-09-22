@@ -1,12 +1,14 @@
 {
-    "title": "My App",
+    "title": "Breed List - PawsomeAdviceApp",
     "welcome": "Welcome",
     "profile": "Profile",
     "home": "Home",
     "about": "About",
-    "description": "This is an internationalization test application.",
+    "description": "Discover all dog breeds accompanied by a random life advice: a collection designed to brighten your day.",
     "language": "Language",
     "spanish": "Spanish",
     "english": "English",
-    "leerMas": "Read more"
+    "leerMas": "Read more",
+    "footer1": "© 2024 PawsomeAdviceApp. All rights reserved.",
+    "footer2": "Images are provided by The Dog API and advice by Advice Slip API."
 }
