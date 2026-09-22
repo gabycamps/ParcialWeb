@@ -1,5 +1,5 @@
 {
-    "title": "I18N Pre-exam",
+    "title": "My App",
     "welcome": "Welcome",
     "profile": "Profile",
     "home": "Home",
@@ -7,5 +7,6 @@
     "description": "This is an internationalization test application.",
     "language": "Language",
     "spanish": "Spanish",
-    "english": "English"
+    "english": "English",
+    "leerMas": "Read more"
 }

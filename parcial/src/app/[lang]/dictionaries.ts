@@ -1,3 +1,5 @@
+import { notFound } from 'next/navigation'
+import { lang } from 'next/root-params'
 import 'server-only'
 
 const dictionaries = {
@@ -10,4 +12,8 @@ export type Locale = keyof typeof dictionaries
 export const hasLocale = (locale: string): locale is Locale =>
     locale in dictionaries
 
-export const getDictionary = async (locale: Locale) => dictionaries[locale]()
+export const getDictionary = async () =>{
+    const locale = await lang()
+    if (!hasLocale(locale)) notFound()
+    return dictionaries[locale]()
+}
